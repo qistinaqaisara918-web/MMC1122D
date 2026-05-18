@@ -1,0 +1,35 @@
+body{background-color:darkolivegreen}
+
+
+#Logo {float:left; margin-bottom:10px}
+#Icon {float:right;}
+#Navigation {clear:both;}
+
+#Header {font-family; Arial; float:left; width: 620px;}
+#tajuk {color:purple; border-bottom:solid black 1px}
+#Header img {border:solid black 1px;padding:10px;} 
+#Navigation a:hover{color:rgb(177, 79, 40)}
+#Header a{color:black; text-decoration-line:none;}
+#Header a:visited{color:black}
+#RightContent {font-family:Arial;float:right;width:230px}
+#RightContent h3 {color:purple}
+#RightContent h2 {color:black}
+ 
+#Footer {clear:both;}
+
+#Kotak {width:900px; background-color:white; margin:0px auto;}
+#Kotak2 {width:1000px; background-color:white; margin:0px auto;}
+
+#Navigation {border-top:solid black 2px; border-bottom:solid black 2px; padding:10px;}
+#Navigation a{margin:10px;}
+
+#Header {border-bottom:solid black 1px;color:darkolive; font-family:Arial;}
+#Footer {border-top:solid black 1px; font-family:Arial; padding:6px 330px; margin:10px}
+
+#first {float:left;width:250px;background-color:grey;margin-right: 30px;border-top:solid rgb(34, 22, 4) 20px ;margin-left: 20px;margin-bottom: 20px;}
+#second {float:left;width:250px;background-color:grey;margin-right: 30px;border-top:solid rgb(34, 22, 4) 20px ;margin-left: 20px;margin-bottom: 20px;}
+#third {float:left;width:250px;background-color:grey;margin-right: 30px;border-top:solid rgb(4, 28, 8) 20px ;margin-left: 20px;margin-bottom: 20px;}
+
+
+
+
